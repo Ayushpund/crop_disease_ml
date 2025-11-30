@@ -1,0 +1,70 @@
+{
+    "groundnut_early_leaf_spot_1": {
+        "treatment": "Remove and destroy infected crop debris. Practice crop rotation with non-legumes. Apply fungicides like Chlorothalonil or Mancozeb at the first sign of disease.",
+        "pesticide": "Chlorothalonil 75 WP @ 2g/l or Tebuconazole 25.9 EC @ 1ml/l."
+    },
+    "groundnut_early_rust_1": {
+        "treatment": "Use resistant varieties if available. Remove volunteer groundnut plants. Avoid overhead irrigation.",
+        "pesticide": "Spray Tridemorph 80 EC @ 0.5 ml/l or Mancozeb 75 WP @ 2 g/l."
+    },
+    "groundnut_healthy_leaf_1": {
+        "treatment": "No treatment needed. Maintain good agricultural practices.",
+        "pesticide": "None."
+    },
+    "groundnut_late_leaf_spot_1": {
+        "treatment": "Deep plowing to bury infected debris. Crop rotation. Early planting can sometimes escape severe infection.",
+        "pesticide": "Spray Carbendazim 50 WP @ 1g/l or Hexaconazole 5 EC @ 1ml/l."
+    },
+    "groundnut_nutrition_deficiency_1": {
+        "treatment": "Identify specific nutrient missing (often Nitrogen, Iron, or Zinc). Apply appropriate fertilizer or foliar spray.",
+        "pesticide": "None (Nutritional issue)."
+    },
+    "groundnut_rust_1": {
+        "treatment": "Destroy infected plant debris. Crop rotation. Use rust-resistant cultivars.",
+        "pesticide": "Propiconazole 25 EC @ 1ml/l or Chlorothalonil @ 2g/l."
+    },
+    "soyabean_Bacterial_Pustule": {
+        "treatment": "Plant resistant varieties. Avoid cultivation when foliage is wet. Crop rotation.",
+        "pesticide": "Copper-based fungicides can reduce spread but are not curative."
+    },
+    "soyabean_Frogeye_Leaf_Spot": {
+        "treatment": "Tillage to bury residue. Crop rotation with corn or cotton. Use pathogen-free seed.",
+        "pesticide": "Azoxystrobin or Pyraclostrobin fungicides."
+    },
+    "soyabean_Healty": {
+        "treatment": "Keep monitoring for pests and diseases.",
+        "pesticide": "None."
+    },
+    "soyabean_Rust": {
+        "treatment": "Monitor sentinel plots. Apply fungicide immediately upon detection.",
+        "pesticide": "Triazole or Strobilurin fungicides."
+    },
+    "soyabean_Sudden_Death_Syndrome": {
+        "treatment": "Select resistant varieties. Improve soil drainage. Delay planting slightly.",
+        "pesticide": "Seed treatments like Fluopyram (ILeVO) can help."
+    },
+    "soyabean_Target_Leaf_Spot": {
+        "treatment": "Manage crop residue. Crop rotation.",
+        "pesticide": "Fungicides containing Flutriafol or Fluxapyroxad."
+    },
+    "soyabean_Yellow_Mosaic": {
+        "treatment": "Remove and destroy infected plants (roguing). Control whitefly vectors.",
+        "pesticide": "Control Whitefly with Thiamethoxam 25 WG @ 0.2g/l or Imidacloprid."
+    },
+    "sunflower_Downy_mildew": {
+        "treatment": "Use resistant hybrids. Seed treatment is crucial. Avoid waterlogging.",
+        "pesticide": "Seed treatment with Metalaxyl."
+    },
+    "sunflower_Fresh_Leaf": {
+        "treatment": "Maintain regular monitoring.",
+        "pesticide": "None."
+    },
+    "sunflower_Gray_mold": {
+        "treatment": "Avoid excessive nitrogen. Control head moth larvae which predispose plants to rot. Reduce planting density.",
+        "pesticide": "Iprodione or Vinclozolin (check local regulations)."
+    },
+    "sunflower_Leaf_scars": {
+        "treatment": "Physical damage or old injury. Monitor for secondary infections.",
+        "pesticide": "None usually required unless secondary infection occurs."
+    }
+}

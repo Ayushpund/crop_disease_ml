@@ -1,0 +1,19 @@
+{
+  "0": "groundnut_early_leaf_spot_1",
+  "1": "groundnut_early_rust_1",
+  "2": "groundnut_healthy_leaf_1",
+  "3": "groundnut_late_leaf_spot_1",
+  "4": "groundnut_nutrition_deficiency_1",
+  "5": "groundnut_rust_1",
+  "6": "soyabean_Bacterial_Pustule",
+  "7": "soyabean_Frogeye_Leaf_Spot",
+  "8": "soyabean_Healty",
+  "9": "soyabean_Rust",
+  "10": "soyabean_Sudden_Death_Syndrome",
+  "11": "soyabean_Target_Leaf_Spot",
+  "12": "soyabean_Yellow_Mosaic",
+  "13": "sunflower_Downy_mildew",
+  "14": "sunflower_Fresh_Leaf",
+  "15": "sunflower_Gray_mold",
+  "16": "sunflower_Leaf_scars"
+}
